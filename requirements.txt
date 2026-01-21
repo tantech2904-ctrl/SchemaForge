@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+bcrypt 
+python-jose 
+mysql-connector-python
+pydantic[email]
